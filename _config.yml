@@ -16,14 +16,14 @@ minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale: "en-US"
-title: "Min Kim Devlo"
+title: "Min Kim's DevStorage"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Min Kim"
-description: "Min Kim Devlog"
-url: "https://MinKimDev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: "Storage of My learnings and notes from my dev life"
+url: "https://minkimdev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: minkimdev/minkimdev.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -112,9 +112,9 @@ author:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     # url: "mailto:your.name@email.com"
-  - label: "Website"
+  - label: "Personal Blog"
     icon: "fas fa-fw fa-link"
-    # url: "https://your-website.com"
+    url: "https://minkimdev.medium.com/"
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     # url: "https://twitter.com/"
